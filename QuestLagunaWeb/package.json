@@ -1,0 +1,21 @@
+{
+  "name": "questlagunaweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "Node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^4.0.0",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "^4.16.4",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  }
+}
